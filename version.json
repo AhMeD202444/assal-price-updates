@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/AhMeD202444/assal-price-updates/releases/download/v1.2/app-release.apk",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/AhMeD202444/assal-price-updates/releases/download/v1.3/app-release.apk",
   "forceUpdate": true,
-  "title": "يوجد إصدار جديد",
-  "message": "يرجى تحديث التطبيق للاستمرار"
+  "title": "تحديث إلزامي",
+  "message": "دعم أجهزة ذات المعالجات الضعيفة"
 }
