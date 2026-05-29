@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/AhMeD202444/assal-price-updates/releases/download/v1.3/app-release.apk",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/AhMeD202444/assal-price-updates/releases/download/v1.4/app-release.apk",
   "forceUpdate": true,
-  "title": "تحديث إلزامي",
-  "message": "دعم أجهزة ذات المعالجات الضعيفة"
+  "title": "تحديث جديد إلزامي",
+  "message": "تمت إضافة البحث الصوتي الذكي وتحسينات مهمة على البحث"
 }
