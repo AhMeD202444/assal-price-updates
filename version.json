@@ -2,7 +2,7 @@
   "versionCode": 10900,
   "versionName": "1.9",
   "apkUrl": "https://github.com/AhMeD202444/assal-price-updates/releases/download/v1.9/app-release.apk",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "title": "تحديث جديد لتطبيق عسل",
   "message": "يتوفر إصدار جديد يتضمن إصلاحات وتحسينات."
 }
